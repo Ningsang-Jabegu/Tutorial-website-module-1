@@ -1,0 +1,13 @@
+body{
+    margin: 1rem;
+    background-color: rgb(2, 37, 68);
+}
+.white{
+    color: whitesmoke;
+}
+.b{
+    color: rgb(226, 189, 183);
+}
+.center{
+    text-align: center;
+}
